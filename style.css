@@ -1,0 +1,88 @@
+
+
+table{
+    border: 2px solid blue ;
+    padding: 4px;
+}
+
+tr , td{
+    padding: 6px;
+    color: blue;
+
+}
+
+p{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.main{
+    margin: auto;
+    width: 80%;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.tit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-image{
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+
+
+}
+
+.lists{
+    padding: 2px;
+}
+
+.rest-img{
+    padding: 2px;
+   
+}
+
+.tab-title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tab-data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contact{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#img-char{
+    width: 250px;
+    height: 250px;
+}
+
+#t1{
+    color : maroon; 
+}
